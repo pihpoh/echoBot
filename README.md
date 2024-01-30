@@ -1,2 +1,1 @@
-simple echo bot 
-telebot
+simple echo bot + telebot
